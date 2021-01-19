@@ -7,3 +7,5 @@ Well I kinda botched this one now didn't I? Friday and Saturday were fairly comf
 Sunday Forecast: Cloudy, with a high of 45°
 
 Monday Forecast: Cloudy, with a high of 31°. Probability of no classes so it's a perfect day to get homework done.
+
+Tuesday Forecast: Sunny, with a high of 36°

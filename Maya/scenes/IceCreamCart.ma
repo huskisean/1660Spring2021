@@ -1,6 +1,6 @@
 //Maya ASCII 2020 scene
 //Name: IceCreamCart.ma
-//Last modified: Thu, Mar 04, 2021 11:05:41 PM
+//Last modified: Thu, Mar 04, 2021 11:23:10 PM
 //Codeset: 1252
 requires maya "2020";
 requires "stereoCamera" "10.0";
@@ -12,12 +12,12 @@ fileInfo "product" "Maya 2020";
 fileInfo "version" "2020";
 fileInfo "cutIdentifier" "201911140446-42a737a01c";
 fileInfo "osv" "Microsoft Windows 10 Technical Preview  (Build 18363)\n";
-fileInfo "UUID" "9D1E1417-4FF5-AA34-CCFF-5FB76A426BB8";
+fileInfo "UUID" "76522E4C-4B90-7FD1-E92E-7599AB7D7299";
 createNode transform -s -n "persp";
 	rename -uid "FD9C3AB0-4CD0-2572-D318-E89ABD11E2FA";
 	setAttr ".v" no;
-	setAttr ".t" -type "double3" -7.8007970386581444 17.977322225730482 -28.295091290979283 ;
-	setAttr ".r" -type "double3" 3224.0616475560587 -5198.6000000243839 0 ;
+	setAttr ".t" -type "double3" -17.120514587025905 4.4295074573884259 -23.686175246406975 ;
+	setAttr ".r" -type "double3" 3248.6616475414962 -5179.3999999890229 0 ;
 	setAttr ".rp" -type "double3" 0 0 2.2204460492503131e-16 ;
 	setAttr ".rpt" -type "double3" -2.8722423254622157e-17 1.4431942405738986e-16 -3.8832969992286587e-16 ;
 createNode camera -s -n "perspShape" -p "persp";
